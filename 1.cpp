@@ -9,4 +9,5 @@ int main()
     cout << "enter nums:\n" << "x="; cin >> x;
     cout << "y="; cin >> y;
     return 0; 
+    
 }
